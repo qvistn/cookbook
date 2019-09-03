@@ -2,6 +2,8 @@
 
 Elanchi is a snack from Kerala made of Coconut and Cardamom, which is mainly served with tea.
 
+![Elanchi](elanchi.jpg)
+
 ## Ingredients
 
 1. Grated coconut - 1 cup
