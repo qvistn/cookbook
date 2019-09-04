@@ -1,5 +1,7 @@
 # Introduction
- Banana fry is a most common snack in kerala
+ Banana fry also known as pazham pori or ethakka appam is a fritter food with ripened banana or plantain and maida flour. A popular food item in South Indian cuisines, it is generally eaten as a breakfast or a snack.
+
+ ![Banana fry](banana_fry.jpg)
 
 ## Ingredients
 
