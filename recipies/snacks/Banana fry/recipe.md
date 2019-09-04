@@ -16,7 +16,7 @@
 ## Instruction
 
 1. Peel the banana, slit it lengthwise and keep it aside.
-2. Make a batter with Plain flour, rice flour, turmeric powder, Baking soda, sugar, salt, water.
+2. Make a batter with Plain flour, Rice flour, Turmeric powder, Baking soda, Sugar, Salt, Water.
 3. Pour some oil into a pan. Dip sliced banana in the batter and make sure it is evenly coated. Deep fry it
 
 ## Notes
