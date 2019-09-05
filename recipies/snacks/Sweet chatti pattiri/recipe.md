@@ -4,6 +4,8 @@
 
 ## Ingredients
 
+Egg
+
 ## Instruction
 
 1. Take a bowl, Add Egg 5, cardomom powder a pinch, sugar 4 tbsp mix it.
